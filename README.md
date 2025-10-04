@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi — I’m Sathvika Kurella👋
+**Data Engineer** • Spark • Airflow • BigQuery • Terraform
 
-<!--
-**SathvikaKurella/sathvikakurella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 sathvikakurella29@gmail.com | LinkedIn: <link>
 
-Here are some ideas to get you started:
+## Highlights
+- Built cross-cloud streaming & batch pipelines (AWS Glue, Kinesis, Dataflow, BigQuery). :contentReference[oaicite:9]{index=9}
+- Reduced ETL runtimes by 55% & optimized costs by 25% in production systems. :contentReference[oaicite:10]{index=10}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned projects
+- Live Events Pipeline — real-time ingestion → Spark streaming → Postgres/BQ (link)
+
+## What I’m learning
+- Kafka Streams, dbt advanced testing
+
