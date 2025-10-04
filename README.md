@@ -1,14 +1,43 @@
-# Hi — I’m Sathvika Kurella👋
-**Data Engineer** • Spark • Airflow • BigQuery • Terraform
+# Hi there, I'm Sathvika 👋
 
-📫 sathvikakurella29@gmail.com | LinkedIn: <link>
+🌟 **Junior Data Engineer** with hands-on experience in building **ETL pipelines, real-time streaming solutions, and cloud-based data platforms** across **AWS, GCP, and Azure**.  
+Passionate about **data modelling, scalable pipelines, and solving real-world data challenges**.
 
-## Highlights
-- Built cross-cloud streaming & batch pipelines (AWS Glue, Kinesis, Dataflow, BigQuery). :contentReference[oaicite:9]{index=9}
-- Reduced ETL runtimes by 55% & optimized costs by 25% in production systems. :contentReference[oaicite:10]{index=10}
+---
 
-## Pinned projects
-- Live Events Pipeline — real-time ingestion → Spark streaming → Postgres/BQ (link)
+## 🚀 About Me
+- 🎓 Currently working as a **Data Engineer** with <2 years of experience.  
+- 💡 Skilled in **Python, SQL, Spark, Airflow, dbt, Terraform, BigQuery, Redshift, and Kafka**.  
+- 📊 Interested in **streaming analytics, cloud-native architectures, and data warehouse optimisation**.  
+- 🌱 Currently learning advanced **Kafka Streams** and **dbt testing**.  
+
+---
+
+## 🔧 Tech Skills
+- **Languages**: Python, SQL  
+- **Big Data**: Spark, PySpark, Hadoop  
+- **Cloud**: AWS (Glue, Lambda, Redshift), GCP (Dataflow, BigQuery), Azure Data Services  
+- **Orchestration**: Airflow, dbt  
+- **Data Streaming**: Kafka, Kinesis  
+- **Infra as Code**: Terraform, Docker  
+- **Databases**: PostgreSQL, MySQL  
+
+---
+
+## ✍️ Blogs & Portfolio
+- 📝 Portfolio: [your-portfolio-link](#)  
+---
+
+## 🎉 A Bit About Me
+- ☕ Coffee enthusiast  
+- 📷 Love photography & travel  
+- 🎶 Enjoy music + creating Spotify playlists  
+- 🌌 Believe in lifelong learning  
+
+---
+
+📫 **Let’s connect!**  
+[LinkedIn](https://www.linkedin.com/in/sathvika-kurella/) | [Email](mailto:sathvikakurella29@gmail.com)
 
 ## What I’m learning
 - Kafka Streams, dbt advanced testing
