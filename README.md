@@ -6,7 +6,7 @@ Passionate about **data modelling, scalable pipelines, and solving real-world da
 ---
 
 ## 🚀 About Me
-- 🎓 Currently working as a **Data Engineer** with <2 years of experience.  
+- 🎓 Currently working as a **Data Engineer** with 3 years of experience.  
 - 💡 Skilled in **Python, SQL, Spark, Airflow, dbt, Terraform, BigQuery, Redshift, and Kafka**.  
 - 📊 Interested in **streaming analytics, cloud-native architectures, and data warehouse optimisation**.  
 - 🌱 Currently learning advanced **Kafka Streams** and **dbt testing**.  
