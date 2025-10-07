@@ -25,8 +25,7 @@ Passionate about **data modelling, scalable pipelines, and solving real-world da
 ---
 
 ## ✍️ Blogs & Portfolio
-- 📝 Portfolio: [your-portfolio-link](#)  
----
+- 📝 Portfolio: https://sathvikakurella.lovable.app/
 
 ## 🎉 A Bit About Me
 - ☕ Coffee enthusiast  
